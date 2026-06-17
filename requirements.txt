@@ -1,0 +1,9 @@
+Flask==3.1.2
+Flask-Bootstrap==3.3.7.1
+flask-wtf==1.2.2
+numpy==1.26.4
+Pillow==11.0.0
+torch==2.1.2
+torchvision==0.16.2
+torchaudio
+gunicorn
